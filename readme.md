@@ -10,7 +10,7 @@
 
 ## 課程說明：
 
-在前一次課程中，我們也有提供許多例題。但是因為時間短暫，所以大家並沒有時間充分練習。
+在[前一次課程](https://bit.ly/2ubZ8R8)中，我們也有提供許多例題。但是因為時間短暫，所以大家並沒有時間充分練習。
 
 本次工作坊著重的是動手做，實作的過程中講師及助教會從旁協助。
 
@@ -38,3 +38,10 @@
 * 使用 flask 練習做網頁。
 
 turtle 會使用 tkinter 來產生 GUI 視窗，而 Jupyter Notebook 只能內嵌 HTML 或圖形檔，所以沒有辦法在 Jupyter Notebook 上面使用 Python 原生的 turtle。
+
+## 參考連結：
+
+* markdown
+
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * [Markdown Cells](https://goo.gl/opufZk)
