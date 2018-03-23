@@ -1,0 +1,13 @@
+<html>
+    <header>
+        <title>{{ title }}</title>
+    </header>
+    <body>
+        <h3>{{ title }}</h3>
+        <ul>
+            {% for news in news_list %}
+            <li>{{ news }}</li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
